@@ -7,4 +7,4 @@ CREATE TABLE employees (
     name text NOT NULL, 
     birthday date NOT NULL, 
     salary integer NOT NULL
-)
+);
